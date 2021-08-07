@@ -2,4 +2,13 @@ npm i gitfolio -g
 $ gitfolio ui
 $ gitfolio build <brandonwells15> --theme dark
 $ gitfolio build <brandonwells15> --background https://images.unsplash.com/photo-1557277770-baf0ca74f908?w=1634
-gitfolio build <brandonwells15> --linkedin <brandon-wells-> 
+$ gitfolio build <brandonwells15> --linkedin <brandon-wells-> 
+$ gitfolio update
+$ gitfolio ui
+{
+  "url_title": "my-first-blog", // the title you provide while creating a new blog, this appears in url
+  "title": "Lorem ipsum dolor sit amet", // main title of blog
+  "sub_title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", // sub-title of blog
+  "top_image": "https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1450", // main image of blog
+  "visible": true // don't worry about this
+}
