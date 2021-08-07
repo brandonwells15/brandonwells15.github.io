@@ -1,0 +1,5 @@
+npm i gitfolio -g
+$ gitfolio ui
+$ gitfolio build <brandonwells15> --theme dark
+$ gitfolio build <brandonwells15> --background https://images.unsplash.com/photo-1557277770-baf0ca74f908?w=1634
+gitfolio build <brandonwells15> --linkedin <brandon-wells-> 
